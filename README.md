@@ -23,14 +23,14 @@ Perhatikan pada aplikasi Burning Tool apaka sudah sukses terbaca
 
 ## 3. **Flasing**
 - Setelah berhasil membuat bootloader dilanjut dengan tahap flashing
-- buka aplikasi Pulpstone_Amlogic_Update_USB_Tool_v2.1.exe
-- lalu input angkat 8 dan enter
-- Jika sudah selesai prosesnya maka lanjutkan step berikutnya,
 - car 3 file yang bernama:
   - boot.img
   - bootloader.img
   - u-boot.bin
   copy dan paste 3 file ini kedaam microsd card tadi lalu eject dan tancapkan ke dalam slot microsd card pada STB
+- buka aplikasi Pulpstone_Amlogic_Update_USB_Tool_v2.1.exe
+- lalu input angkat 8 dan enter
+- Jika sudah selesai prosesnya maka lanjutkan step berikutnya,
 - Copot kabel USB Male to Male, tancapkan kable power dan kabel HDMI yang terhubung ke Monitor/TV
 - Tunggu proses booting
 - taraaa sudah berhasil menginstall firmware dengan Pulstone
